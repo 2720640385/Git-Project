@@ -10,5 +10,6 @@ public class App {
         System.out.println("hello git test");
         System.out.println("hello git test");
         System.out.println("hello github !!! xiao kai master first push ");
+         System.out.println("hello github !!! xiao kai master first fetch ");
     }
 }
